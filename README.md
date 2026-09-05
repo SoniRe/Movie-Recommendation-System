@@ -190,22 +190,5 @@ Movie Details
 └─────────────────────┴─────────────────────┘
 ```
 
-## 🔮 Future Improvements
-
-* Add collaborative filtering using user-rating data.
-* Combine content and collaborative filtering into a hybrid recommendation model.
-* Add model evaluation metrics such as Precision@K and Recall@K.
-* Improve ranking using weighted metadata and user preferences.
-* Add authentication and personalized user profiles.
-
-## 📄 License
-
-Add your preferred license here, such as **MIT License**, if you intend to publish the repository under an open-source license.
-
----
-
-**GitHub Description**
-
-> Content-based movie recommendation system using TF-IDF, cosine similarity, FastAPI, Streamlit, and TMDB API.
 
 [1]: https://github.com/master-temp/movie-rec "GitHub - master-temp/movie-rec · GitHub"
